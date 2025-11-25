@@ -1,0 +1,26 @@
+[
+  {
+    "id": 3,
+    "latitude": 25.01783197863923,
+    "longitude": 121.54099991589082,
+    "mood": 1,
+    "photoUri": "file:///var/mobile/Containers/Data/Application/E117DB00-6CED-40FD-8008-FB7272B768CF/Library/Caches/ExponentExperienceData/@r14227116/emogo-frontend-yulinchen7116/Camera/3F9B1377-7008-4A0F-B5EA-B8750C28EA71.jpg",
+    "timestamp": "2025-11-25T04:04:07.374Z"
+  },
+  {
+    "id": 2,
+    "latitude": 25.017831879900356,
+    "longitude": 121.54099810441608,
+    "mood": 5,
+    "photoUri": "file:///var/mobile/Containers/Data/Application/E117DB00-6CED-40FD-8008-FB7272B768CF/Library/Caches/ExponentExperienceData/@r14227116/emogo-frontend-yulinchen7116/Camera/899D755D-587D-4551-9BFB-09F6DCDEA560.jpg",
+    "timestamp": "2025-11-24T05:54:47.280Z"
+  },
+  {
+    "id": 1,
+    "latitude": 25.03415146921211,
+    "longitude": 121.50149860474215,
+    "mood": 5,
+    "photoUri": "file:///var/mobile/Containers/Data/Application/E117DB00-6CED-40FD-8008-FB7272B768CF/Library/Caches/ExponentExperienceData/@r14227116/emogo-frontend-yulinchen7116/Camera/020D4BBB-F5E8-49C0-92CA-A68D055F205D.jpg",
+    "timestamp": "2025-11-23T17:07:44.118Z"
+  }
+]
